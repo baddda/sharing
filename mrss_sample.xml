@@ -3,7 +3,6 @@
                    <channel>
                       <title>Netzkino</title>
                       <dfpvideo:version>2</dfpvideo:version>
-                      <atom:link rel="next" href="http://api.netzkino.de.simplecache.net/capi-2.0a/videoMRSS.xml?" />
                 <item>
                                 <title>Jacked – Pulp Russia</title>
                                 <media:content duration="60000" url="http://www.netzkino.de" />
