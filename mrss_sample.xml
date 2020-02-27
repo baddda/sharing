@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dfpvideo="http://api.google.com/dfpvideo" xmlns:media="http://search.yahoo.com/mrss/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:tms="http://data.tmsapi.com/v1.1" version="2.0">
    <channel>
-      <title>Netzkino MRSS Feed</title>
+      <title>Netzkino MRSS Feed v1.0</title>
       <dfpvideo:version>2</dfpvideo:version>
       <!--   <atom:link rel="next"
  href="http://www.feedprovider.com/video/vids?page3"/> -->
@@ -10,7 +10,7 @@
          <dfpvideo:keyvalues key="title" value="Example Title" type="string" />
          <dfpvideo:contentId>video1</dfpvideo:contentId>
          <dfpvideo:lastModifiedDate>Fri, 12 Nov 2016 18:19:10+0000</dfpvideo:lastModifiedDate>
-         <dfpvideo:cuepoints>10,11,12</dfpvideo:cuepoints>
+         <dfpvideo:cuepoints>10</dfpvideo:cuepoints>
       </item>
    </channel>
 </rss>
