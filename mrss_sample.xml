@@ -18,7 +18,7 @@
   +0000</dfpvideo:lastModifiedDate>
          <dfpvideo:lastMediaModifiedDate>Fri, 12 Nov 2016 18:19:10
   +0000</dfpvideo:lastMediaModifiedDate>
-         <dfpvideo:cuepoints>10</dfpvideo:cuepoints>
+         <dfpvideo:cuepoints>15,20</dfpvideo:cuepoints> 
          <dfpvideo:ingestUrl type="application/x-mpegURL" preconditioned="true">https://storage.googleapis.com/dfp-
   support/dfpdai/BigBuckBunny-hls/playlist.m3u8</dfpvideo:ingestUrl>
       </item>
