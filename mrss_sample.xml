@@ -5,16 +5,14 @@
       <dfpvideo:version>2</dfpvideo:version>
       <atom:link rel="next" href="https://raw.githubusercontent.com/baddda/Sharing/master/mrss_sample_page_2"/>
       <item>
-         <pubDate>Fri, 12 Nov 2016 18:19:10 +0000</pubDate>
-         <title>Netzkino Movie v1.0</title>
+         <title>Netzkino Movie v1.1</title>
          <media:content duration="60000" url="http://www.netzkino.de" />
          <dfpvideo:contentId>video1</dfpvideo:contentId>
          <dfpvideo:lastModifiedDate>Fri, 12 Nov 2016 18:19:10+0000</dfpvideo:lastModifiedDate>
          <dfpvideo:cuepoints>600,1200,1800</dfpvideo:cuepoints> 
       </item>
       <item>
-         <pubDate>Fri, 12 Nov 2016 18:19:10 +0000</pubDate>
-         <title>Netzkino Movie v1.0</title>
+         <title>Netzkino Movie v1.1</title>
          <media:content duration="60000" url="http://www.netzkino.de" />
          <dfpvideo:contentId>video2</dfpvideo:contentId>
          <dfpvideo:lastModifiedDate>Fri, 12 Nov 2016 18:19:10+0000</dfpvideo:lastModifiedDate>
