@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Silber Münze 5g",
+      "prices": [
+        {
+          "priceLevelId": "0",
+          "price": 20.99
+        },
+        {
+          "priceLevelId": "1",
+          "price": 18.99
+        }
+      ]
+    },
+    {
+      "name": "Gold Münze 5g",
+      "prices": [
+        {
+          "priceLevelId": "0",
+          "price": 20.99
+        },
+        {
+          "priceLevelId": "1",
+          "price": 18.99
+        }
+      ]
+    }
+  ]
+}
